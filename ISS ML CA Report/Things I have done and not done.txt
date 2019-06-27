@@ -1,0 +1,18 @@
+Things that I have done - Topics:
+Supervised ML (Airline satisfaction dataset):
+	Data Cleaning and Feature Engineering also in appendix
+	Decision Trees
+Unsupervised ML (Pulsar Star Dataset)
+	Codes - All
+	Feature Engineering
+	PCA and LDA
+	Findings using alternative ML methods
+	Summary of findings and observations
+	Other types of Machine Learning (e.g. Neural Network, Web Application)
+
+Things that I have not done - Based on topics listed above:
+Supervised ML
+	Decision Trees (Improvements after data engineering)
+	Decision Trees - Other Findings and Observations
+	Conclusion - impact of data cleaning
+		Comparison between different binning methods
